@@ -3,7 +3,7 @@
  * @type {import('next').NextConfig} 
  */
 const nextConfig = {
-  basePath: '/',
+  // basePath: '/',
   env: {
     customKey: 'my-value',
   },
