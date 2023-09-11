@@ -8,6 +8,9 @@ const nextConfig = {
     customKey: 'my-value',
     OPENAI_API_KEY: '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'
   },
+  // plugins: [
+  //   ["import", { "libraryName": "antd", "style": "css" }]
+  // ],
   eslint: {},
   reactStrictMode: true,
 }
